@@ -5,8 +5,8 @@ export const siteConfig = {
   description: "基于 Next.js 的加密货币导航",
   mainNav: [],
   links: {
-    twitter: "https://twitter.com/0xkkdemian",
-    github: "https://github.com/chuhemiao/next-web-nav",
+    twitter: "https://x.com/GuoBaWei",
+    github: "https://github.com/K1314047/next-web-nav",
   },
 }
 
