@@ -249,13 +249,13 @@ export const NavData: NavData[] = [
         icon: "/icons/binance.jpeg",
         title: "Binance - 币安",
         desc: "全球最大最广泛的加密货币交易所",
-        link: "https://accounts.binance.com/en/register?ref=MKOOSEO4",
+        link: "https://www.binance.com/zh-CN",
       },
       {
         icon: "/icons/okx.jpeg",
         title: "Okx",
         desc: "支持多种加密货币的硬件钱包",
-        link: "https://www.okx.com/join/1871789",
+        link: "https://www.okx.com/",
       },
       {
         icon: "/icons/coinbase.png",
@@ -267,7 +267,7 @@ export const NavData: NavData[] = [
         icon: "/icons/bybit.jpeg",
         title: "Bybit",
         desc: "体验还不错的交易所，短暂支持国内认证！",
-        link: "https://www.bybit.com/invite?ref=VPXW4ZN",
+        link: "https://www.bybit.com",
       },
       {
         icon: "/icons/kraken.jpg",
@@ -278,13 +278,13 @@ export const NavData: NavData[] = [
     ],
   },
   {
-    title: "前端和合约开发",
+    title: "数据查询",
     items: [
       {
-        icon: "https://developer.mozilla.org/apple-touch-icon.6803c6f0.png",
-        title: "MDN | Web 开发者指南",
-        desc: "Mozilla 的开发者平台，提供了大量关于 HTML、CSS 和 JavaScript 的详细文档以及广泛的 Web API 参考资料",
-        link: "https://developer.mozilla.org/zh-CN",
+        icon: "https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe7017e85-e5e3-4b15-989b-caaf9be8dbe4%2F257388d8-af04-4a5c-b3a9-837f5410854c%2F%25E4%25B8%258B%25E8%25BD%25BD.jpg?table=block&id=f126b132-b10d-49f0-9bc7-17127e9ab916&t=f126b132-b10d-49f0-9bc7-17127e9ab916&width=800&cache=v2&width=88",
+        title: "DEX Tracker",
+        desc: "去中心化交易所（DEX）追踪工具",
+        link: "https://www.geckoterminal.com/",
       },
       {
         icon: "/icons/es6.png",
