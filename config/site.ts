@@ -690,39 +690,4 @@ export const NavData: NavData[] = [
     ],
   },
 ]
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://cn.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text"></span></a></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
-  {
-  "symbols": [
-    {
-      "description": "莱特币",
-      "proName": "BINANCE:LTCUSDT"
-    },
-    {
-      "description": "币安币",
-      "proName": "BINANCE:BNBUSDT"
-    },
-    {
-      "description": "比特币",
-      "proName": "BINANCE:BTCUSDT"
-    },
-    {
-      "description": "狗狗币",
-      "proName": "BINANCE:DOGEUSDT"
-    },
-    {
-      "description": "以太坊",
-      "proName": "BINANCE:ETCUSDT"
-    }
-  ],
-  "showSymbolLogo": true,
-  "isTransparent": false,
-  "displayMode": "adaptive",
-  "colorTheme": "light",
-  "locale": "zh_CN"
-}
-  </script>
-</div>
+
