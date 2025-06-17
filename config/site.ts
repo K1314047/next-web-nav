@@ -27,6 +27,41 @@ type NavData = {
 }
 
 export const NavData: NavData[] = [
+ {
+    title: "交易所",
+    items: [
+      {
+        icon: "/icons/binance.jpeg",
+        title: "Binance - 币安",
+        desc: "全球最大最广泛的加密货币交易所",
+        link: "https://www.binance.com/zh-CN",
+      },
+      {
+        icon: "/icons/okx.jpeg",
+        title: "Okx",
+        desc: "支持多种加密货币的硬件钱包",
+        link: "https://www.okx.com/",
+      },
+      {
+        icon: "/icons/coinbase.png",
+        title: "Coinbase Pro",
+        desc: "合规的加密货币交易所",
+        link: "https://www.coinbase.com/",
+      },
+      {
+        icon: "/icons/bybit.jpeg",
+        title: "Bybit",
+        desc: "体验还不错的交易所，短暂支持国内认证！",
+        link: "https://www.bybit.com",
+      },
+      {
+        icon: "/icons/kraken.jpg",
+        title: "Kraken",
+        desc: "支持法币、信用卡的美国交易所，交易界面很单一。",
+        link: "https://pro.kraken.com/",
+      },
+    ],
+  },
   {
     title: "常用工具",
     items: [
@@ -242,41 +277,7 @@ export const NavData: NavData[] = [
       },
     ],
   },
-  {
-    title: "交易所",
-    items: [
-      {
-        icon: "/icons/binance.jpeg",
-        title: "Binance - 币安",
-        desc: "全球最大最广泛的加密货币交易所",
-        link: "https://www.binance.com/zh-CN",
-      },
-      {
-        icon: "/icons/okx.jpeg",
-        title: "Okx",
-        desc: "支持多种加密货币的硬件钱包",
-        link: "https://www.okx.com/",
-      },
-      {
-        icon: "/icons/coinbase.png",
-        title: "Coinbase Pro",
-        desc: "合规的加密货币交易所",
-        link: "https://www.coinbase.com/",
-      },
-      {
-        icon: "/icons/bybit.jpeg",
-        title: "Bybit",
-        desc: "体验还不错的交易所，短暂支持国内认证！",
-        link: "https://www.bybit.com",
-      },
-      {
-        icon: "/icons/kraken.jpg",
-        title: "Kraken",
-        desc: "支持法币、信用卡的美国交易所，交易界面很单一。",
-        link: "https://pro.kraken.com/",
-      },
-    ],
-  },
+ 
   {
     title: "数据查询",
     items: [
@@ -690,4 +691,3 @@ export const NavData: NavData[] = [
     ],
   },
 ]
-
